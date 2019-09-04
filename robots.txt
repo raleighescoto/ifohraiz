@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uefoowoiph.kimberlyradtke.com/sitemap.xml
